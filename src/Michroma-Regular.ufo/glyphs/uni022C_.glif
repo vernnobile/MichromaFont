@@ -3,9 +3,8 @@
   <advance width="2241"/>
   <unicode hex="022C"/>
   <outline>
-    <component base="O" xOffset="-1"/>
-    <component base="macron" xOffset="435" yOffset="827"/>
-    <component base="tilde" xOffset="563" yOffset="448"/>
+    <component base="Otilde"/>
+    <component base="macron" xOffset="623.513" yOffset="827"/>
   </outline>
   <lib>
     <dict>

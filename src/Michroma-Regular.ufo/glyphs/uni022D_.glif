@@ -3,77 +3,63 @@
   <advance width="1597"/>
   <unicode hex="022D"/>
   <outline>
-    <component base="macron" xOffset="89" yOffset="379"/>
-    <component base="o" xOffset="-3"/>
-    <component base="tilde" xOffset="217"/>
+    <component base="macron" xOffset="307" yOffset="379"/>
+    <component base="otilde"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-22</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1033</integer>
-            <key>width</key>
-            <integer>151</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1344</integer>
-            <key>width</key>
-            <integer>160</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1440</integer>
-            <key>width</key>
-            <integer>161</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1723</integer>
-            <key>width</key>
-            <integer>160</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>100</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>322</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1026</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1316</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-22</integer>
+	    <key>width</key>	    <integer>150</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1033</integer>
+	    <key>width</key>	    <integer>151</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1344</integer>
+	    <key>width</key>	    <integer>160</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1440</integer>
+	    <key>width</key>	    <integer>161</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1723</integer>
+	    <key>width</key>	    <integer>160</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>100</integer>
+	    <key>width</key>
+	    <integer>192</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>322</integer>
+	    <key>width</key>
+	    <integer>192</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1026</integer>
+	    <key>width</key>
+	    <integer>192</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1316</integer>
+	    <key>width</key>
+	    <integer>192</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

@@ -4,6 +4,7 @@
   <unicode hex="0210"/>
   <outline>
     <component base="R"/>
+    <component base="uni030F" xOffset="86.5" yOffset="410.02"/>
   </outline>
   <lib>
     <dict>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="doublegrave" format="1">
+<glyph name="uni030F" format="1">
   <advance width="1385"/>
+  <unicode hex="030F"/>
   <outline>
     <contour>
       <point x="1233" y="1280" type="line"/>

@@ -1,60 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01EB" format="1">
-  <advance width="1599"/>
+  <advance width="1614"/>
   <unicode hex="01EB"/>
   <outline>
-    <component base="o" xOffset="-1"/>
-    <component base="ogonek" xOffset="351" yOffset="-76"/>
+    <component base="o"/>
+    <component base="ogonek" xOffset="414" yOffset="-66.8"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-588</integer>
-            <key>width</key>
-            <integer>160</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>-22</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1033</integer>
-            <key>width</key>
-            <integer>151</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>102</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>424</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1318</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-588</integer>
+	    <key>width</key>	    <integer>160</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-22</integer>
+	    <key>width</key>	    <integer>150</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1033</integer>
+	    <key>width</key>	    <integer>151</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>102</integer>
+	    <key>width</key>
+	    <integer>192</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>424</integer>
+	    <key>width</key>
+	    <integer>192</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1318</integer>
+	    <key>width</key>
+	    <integer>192</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

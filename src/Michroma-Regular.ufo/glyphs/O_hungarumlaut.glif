@@ -3,8 +3,8 @@
   <advance width="2241"/>
   <unicode hex="0150"/>
   <outline>
-    <component base="O" xOffset="-2"/>
-    <component base="hungarumlaut" xOffset="665" yOffset="410"/>
+    <component base="O"/>
+    <component base="hungarumlaut" xOffset="684.013" yOffset="410.021"/>
   </outline>
   <lib>
     <dict>

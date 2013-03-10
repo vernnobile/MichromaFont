@@ -1,67 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01D6" format="1">
-  <advance width="1591"/>
+  <advance width="1593"/>
   <unicode hex="01D6"/>
   <outline>
-    <component base="dieresis" xOffset="253"/>
-    <component base="macron" xOffset="285" yOffset="314"/>
-    <component base="u" xOffset="-4"/>
+    <component base="macron" xOffset="286.5" yOffset="314"/>
+    <component base="udieresis"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-22</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1132</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1344</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1658</integer>
-            <key>width</key>
-            <integer>160</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>110</integer>
-            <key>width</key>
-            <integer>193</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1263</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-22</integer>
+	    <key>width</key>	    <integer>150</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1132</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1344</integer>
+	    <key>width</key>	    <integer>192</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1658</integer>
+	    <key>width</key>	    <integer>160</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>110</integer>
+	    <key>width</key>
+	    <integer>193</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1263</integer>
+	    <key>width</key>
+	    <integer>192</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcaron" format="1">
-  <advance width="2143"/>
+  <advance width="2145"/>
   <unicode hex="01E6"/>
   <outline>
-    <component base="G" xOffset="-2"/>
-    <component base="caron" xOffset="541" yOffset="410"/>
+    <component base="G"/>
+    <component base="caron" xOffset="607.5" yOffset="410.02"/>
   </outline>
   <lib>
     <dict>

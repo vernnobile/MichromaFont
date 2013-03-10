@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="1">
-  <advance width="2043"/>
+  <advance width="2046"/>
   <unicode hex="0154"/>
   <outline>
-    <component base="R" xOffset="-2"/>
-    <component base="acute" xOffset="542" yOffset="410"/>
+    <component base="R"/>
+    <component base="acute" xOffset="883" yOffset="410.02"/>
   </outline>
   <lib>
     <dict>

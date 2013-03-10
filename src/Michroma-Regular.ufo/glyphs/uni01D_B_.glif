@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01DB" format="1">
-  <advance width="2108"/>
+  <advance width="2209"/>
   <unicode hex="01DB"/>
   <outline>
-    <component base="U" xOffset="-2"/>
-    <component base="dieresis" xOffset="509" yOffset="448"/>
-    <component base="grave" xOffset="285" yOffset="826"/>
+    <component base="Udieresis"/>
+    <component base="grave" xOffset="423" yOffset="724.021"/>
   </outline>
   <lib>
     <dict>

@@ -3,9 +3,8 @@
   <advance width="2091"/>
   <unicode hex="01DE"/>
   <outline>
-    <component base="A" xOffset="-2"/>
-    <component base="dieresis" xOffset="542" yOffset="448"/>
-    <component base="macron" xOffset="574" yOffset="762"/>
+    <component base="Adieresis"/>
+    <component base="macron" xOffset="597" yOffset="762"/>
   </outline>
   <lib>
     <dict>

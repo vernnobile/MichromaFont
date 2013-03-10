@@ -163,7 +163,7 @@ feature kern {
 	\guilsinglleft \guilsinglright \fraction \foursuperior \Euro \trademark \Omega 
 	\partialdiff \Delta \product \summation \minus \radical \infinity \integral 
 	\approxequal \notequal \lessequal \greaterequal \lozenge \uniF8FF \fi \fl 
-	\doublegrave ];
+	\uni030F ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

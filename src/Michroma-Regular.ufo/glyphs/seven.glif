@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="1820"/>
+  <advance width="2074"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="625" y="0" type="line"/>
-      <point x="369" y="0" type="line"/>
-      <point x="1553" y="1376" type="line"/>
-      <point x="49" y="1376" type="line"/>
-      <point x="49" y="1536" type="line"/>
-      <point x="1777" y="1536" type="line"/>
-      <point x="1777" y="1344" type="line"/>
+      <point x="752" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="1680" y="1376" type="line"/>
+      <point x="176" y="1376" type="line"/>
+      <point x="176" y="1536" type="line"/>
+      <point x="1904" y="1536" type="line"/>
+      <point x="1904" y="1344" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,15 +26,6 @@
 	  <dict>
 	    <key>position</key>	    <integer>1376</integer>
 	    <key>width</key>	    <integer>160</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>369</integer>
-	    <key>width</key>
-	    <integer>256</integer>
 	  </dict>
 	</array>
       </dict>

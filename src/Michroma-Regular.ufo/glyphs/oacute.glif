@@ -1,48 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="1">
-  <advance width="1596"/>
+  <advance width="1614"/>
   <unicode hex="00F3"/>
   <outline>
-    <component base="acute" xOffset="316"/>
-    <component base="o" xOffset="-4"/>
+    <component base="acute" xOffset="647" yOffset="26"/>
+    <component base="o"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-22</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1033</integer>
-            <key>width</key>
-            <integer>151</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>99</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1315</integer>
-            <key>width</key>
-            <integer>192</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-22</integer>
+	    <key>width</key>	    <integer>150</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1033</integer>
+	    <key>width</key>	    <integer>151</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>99</integer>
+	    <key>width</key>
+	    <integer>192</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1315</integer>
+	    <key>width</key>
+	    <integer>192</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>
