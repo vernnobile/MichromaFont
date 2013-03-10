@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="1096"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="1063" y="768" type="line"/>
+      <point x="615" y="1536" type="line"/>
+      <point x="487" y="1536" type="line"/>
+      <point x="39" y="768" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="615" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="768" type="line"/>
+      <point x="551" y="1280" type="line"/>
+      <point x="839" y="768" type="line"/>
+      <point x="551" y="256" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>256</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1280</integer>
+	    <key>width</key>	    <integer>256</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>39</integer>
+	    <key>width</key>
+	    <integer>224</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>839</integer>
+	    <key>width</key>
+	    <integer>224</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

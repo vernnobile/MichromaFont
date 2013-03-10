@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="1375"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="354" y="969" type="line"/>
+      <point x="406.036" y="1130.31"/>
+      <point x="607.388" y="1184"/>
+      <point x="834" y="1184" type="curve" smooth="yes"/>
+      <point x="1159.91" y="1184"/>
+      <point x="1314" y="1097.64"/>
+      <point x="1314" y="777" type="curve"/>
+      <point x="1154" y="777" type="line"/>
+      <point x="1154" y="1018.07"/>
+      <point x="1018.153" y="1024"/>
+      <point x="770" y="1024" type="curve" smooth="yes"/>
+      <point x="513.099" y="1024"/>
+      <point x="354" y="961.746"/>
+      <point x="354" y="713" type="curve" smooth="yes"/>
+      <point x="354" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="1152" type="line"/>
+      <point x="354" y="1152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1024</integer>
+            <key>width</key>
+            <integer>160</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1132</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>137</integer>
+            <key>width</key>
+            <integer>192</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1129</integer>
+            <key>width</key>
+            <integer>160</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
